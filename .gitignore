@@ -1,3 +1,7 @@
-__pychache__
-fastapi-env
+__pycache__/
+blog-env/
+fastapi-env/
 .DS_Store
+*.pyc
+*.pyo
+*.pyd
