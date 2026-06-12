@@ -5,3 +5,4 @@ fastapi-env/
 *.pyc
 *.pyo
 *.pyd
+*.db
